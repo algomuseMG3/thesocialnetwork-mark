@@ -109,43 +109,7 @@ The **Film vs. Reality** section in `App.tsx` uses the native HTML `<details>` a
 
 ## 7. How to Run Locally
 
-### Prerequisites
 
-- **Node.js** (v20 or v22 LTS recommended, v24 supported).
-
-### Steps
-
-1. Navigate to the project root:
-   ```bash
-   cd the-social-network-story-main
-   ```
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the local development server:
-   ```bash
-   npm run dev
-   ```
-4. Open the displayed URL (usually `http://localhost:3000` or `http://localhost:5173`) in your browser.
-
-### Running Checks & Tests
-
-- **Run Unit Tests:**
-  ```bash
-  npm test
-  ```
-  _(Verifies all 11 tests across `app.test.tsx` and `biography.test.tsx`.)_
-- **Run Code Linting:**
-  ```bash
-  npm run lint
-  ```
-- **Run Production Build:**
-  ```bash
-  npm run build
-  ```
-
----
 
 ## 8. References & Image Credits
 

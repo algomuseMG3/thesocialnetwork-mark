@@ -1,6 +1,7 @@
+HEAD
 # The Social Network — Mark Zuckerberg's Journey
 
-An interactive, responsive React + TypeScript web application built for a college Entrepreneurship Development Cell (EDC) assignment, tracing Mark Zuckerberg's entrepreneurial journey from a Harvard dorm room to the global scale of Meta Platforms, Inc.
+An interactive, responsive React + TypeScript web application b tracing Mark Zuckerberg's entrepreneurial journey from a Harvard dorm room to the global scale of Meta Platforms, Inc.
 
 ---
 
@@ -152,3 +153,7 @@ The **Film vs. Reality** section in `App.tsx` uses the native HTML `<details>` a
 - **Mark Zuckerberg Photo:** Anthony Quintano, CC BY 2.0, via Wikimedia Commons.
 - **Widener Library Photo:** Wikimedia Commons (Public Domain / Creative Commons).
 - **Company Badges:** Custom CSS lettermarks created with `Archivo Black`, not trademarked corporate logos.
+=======
+# thesocialnetwork-mark
+An interactive, responsive React and TypeScript case study of Mark Zuckerberg’s journey from Harvard to Meta, featuring a clickable timeline, expandable company cards, and cited references.
+>>>>>>> 04eadd41d3983f3c055e6cdc8d12220bcf9a2885

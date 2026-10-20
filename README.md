@@ -108,6 +108,7 @@ The **Film vs. Reality** section in `App.tsx` uses the native HTML `<details>` a
 ---
 
 ## 7. How to Run Locally
+deployed by using verbal: https://thesocialnetwork-mark.vercel.app/
 
 
 

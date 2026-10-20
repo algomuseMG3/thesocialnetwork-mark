@@ -121,4 +121,3 @@ deployed by using verbal: https://thesocialnetwork-mark.vercel.app/
 =======
 # thesocialnetwork-mark
 An interactive, responsive React and TypeScript case study of Mark Zuckerberg’s journey from Harvard to Meta, featuring a clickable timeline, expandable company cards, and cited references.
->>>>>>> 04eadd41d3983f3c055e6cdc8d12220bcf9a2885
